@@ -1,0 +1,14 @@
+
+h1 {
+    text-align: center;
+    color: firebrick;
+}
+.img-resize {
+    width: 550px;
+    height: auto;  
+}
+div {
+    font-family: "Neonderthaw", cursive, sans-serif;
+    color: rgb(6, 70, 75);
+    font-size: 28px;
+}
